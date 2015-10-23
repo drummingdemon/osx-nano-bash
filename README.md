@@ -1,4 +1,4 @@
-# BASH and NANO Customization @ MAC OS X
+# BASH and NANO Colors
 
 for the best possible (and colorful) BASH and nano experience under MAC OS X
 
