@@ -1,2 +1,5 @@
-# osx-nano-bash
-for the best possible nano and bash setup
+# BASH and NANO Customization @ MAC OS X
+
+for the best possible (and colorful) BASH and nano experience under MAC OS X
+
+also, you need to have nano installed via brew (http://brew.sh)
